@@ -1,0 +1,81 @@
+{
+  "movies": [
+    {
+      "name": "3-idiot",
+      "genre": "Action & comedy",
+      "director": "RajKumar Hirani",
+      "released": 2009,
+      "id": 1
+    },
+    {
+      "name": "Laggan",
+      "genre": "Historical drama and sports",
+      "director": "Ashutosh Gowariker ",
+      "released": 2001,
+      "id": 3
+    },
+    {
+      "name": "Mughl-e-Azam",
+      "genre": "Action & love story",
+      "director": "K. Ashif",
+      "released": 1960,
+      "id": 4
+    },
+    {
+      "name": "Dilwale Dulhaniya Lejayenge",
+      "genre": "Love Story",
+      "director": "Aditya Chopra",
+      "released": 1995,
+      "id": 5
+    },
+    {
+      "name": "Bahubali",
+      "genre": "Action & love story",
+      "director": "S.S. Rajamouli",
+      "released": 2015,
+      "id": 6
+    },
+    {
+      "name": "KGF",
+      "genre": "Action",
+      "director": "Prashanth Neel",
+      "released": 2018,
+      "id": 7
+    },
+    {
+      "name": "Pushpa",
+      "genre": "Action & comedy",
+      "director": "Sukumar",
+      "released": 2021,
+      "id": 8
+    },
+    {
+      "name": "Don",
+      "genre": "Action",
+      "director": "Farhan Akhter",
+      "released": 2006,
+      "id": 9
+    },
+    {
+      "name": "My name is Khan",
+      "genre": "Adventure and Drama",
+      "director": "Karan Johar",
+      "released": 2010,
+      "id": 10
+    },
+    {
+      "name": "Laila Majnu",
+      "genre": "Love Story",
+      "director": "Harnan Singh",
+      "released": 1976,
+      "id": 11
+    },
+    {
+      "name": "Avtar",
+      "genre": "Action",
+      "director": "James Cameron",
+      "released": "2009",
+      "id": 12
+    }
+  ]
+}
